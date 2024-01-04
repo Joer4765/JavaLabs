@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.MainTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-11-28T19:16:42" hostname="DESKTOP-N4LQ7I8" time="0.716">
+  <properties/>
+  <testcase name="testCreateTeacher()" classname="org.example.MainTest" time="0.587"/>
+  <testcase name="testUpdateTeacher()" classname="org.example.MainTest" time="0.033"/>
+  <testcase name="testDeleteTeacher()" classname="org.example.MainTest" time="0.028"/>
+  <testcase name="testReadTeacher()" classname="org.example.MainTest" time="0.023"/>
+  <testcase name="testSearchTeacher()" classname="org.example.MainTest" time="0.027"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
